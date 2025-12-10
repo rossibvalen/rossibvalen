@@ -19,3 +19,5 @@
 - Email: rossi.valentina@escola.pr.gov.br
 - GitHub: https://github.com/rossibvalen
 
+--------------
+<img align='center' src="https://github.com/rossibvalen/rossibvalen/blob/main/octocat-1765384774500.png" width="215">
